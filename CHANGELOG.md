@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/polyrepos/template-fullstack/compare/v1.0.1...v1.0.2) (2024-07-07)
+
+
+### Bug Fixes
+
+* update template ([560a7ef](https://github.com/polyrepos/template-fullstack/commit/560a7efe9e6d3bce3ab20189acf02ee27b5ba698))
+
 ## [1.0.1](https://github.com/polyrepos/template-fullstack/compare/v1.0.0...v1.0.1) (2024-07-07)
 
 
