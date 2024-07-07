@@ -1,6 +1,7 @@
 {
   "name": "@polyrepo/template-fullstack",
   "description": "Template for creating fullstack projects",
+  "private": false,
   "module": "lib/index.ts",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -15,7 +16,7 @@
     }
   },
   "polyCopy": {
-    "@polyrepo/template-bun": [
+    "@polyrepo/template-base": [
       ".github",
       "LICENSE",
       ".gitignore",
